@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ui-test/static/css/main.4c050a89.chunk.css",
+    "main.js": "/ui-test/static/js/main.3ef9ed25.chunk.js",
+    "main.js.map": "/ui-test/static/js/main.3ef9ed25.chunk.js.map",
+    "runtime-main.js": "/ui-test/static/js/runtime-main.c86c58de.js",
+    "runtime-main.js.map": "/ui-test/static/js/runtime-main.c86c58de.js.map",
+    "static/js/2.d258d74f.chunk.js": "/ui-test/static/js/2.d258d74f.chunk.js",
+    "static/js/2.d258d74f.chunk.js.map": "/ui-test/static/js/2.d258d74f.chunk.js.map",
+    "index.html": "/ui-test/index.html",
+    "static/css/main.4c050a89.chunk.css.map": "/ui-test/static/css/main.4c050a89.chunk.css.map",
+    "static/js/2.d258d74f.chunk.js.LICENSE.txt": "/ui-test/static/js/2.d258d74f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ui-test/static/media/CiscoSansTTThinOblique.ac1e4bf3.ttf",
+    "static/media/app.182a4482.png": "/ui-test/static/media/app.182a4482.png",
+    "static/media/data-center.9d136b71.png": "/ui-test/static/media/data-center.9d136b71.png",
+    "static/media/document-icon.7e60e35b.svg": "/ui-test/static/media/document-icon.7e60e35b.svg",
+    "static/media/greater_than.f143a05d.svg": "/ui-test/static/media/greater_than.f143a05d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c86c58de.js",
+    "static/js/2.d258d74f.chunk.js",
+    "static/css/main.4c050a89.chunk.css",
+    "static/js/main.3ef9ed25.chunk.js"
+  ]
+}
