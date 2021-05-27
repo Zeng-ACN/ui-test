@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ui-test/static/css/main.28c2ef72.chunk.css",
+    "main.css": "/ui-test/static/css/main.ad2bd971.chunk.css",
     "main.js": "/ui-test/static/js/main.3222c3b5.chunk.js",
     "main.js.map": "/ui-test/static/js/main.3222c3b5.chunk.js.map",
     "runtime-main.js": "/ui-test/static/js/runtime-main.c86c58de.js",
@@ -8,7 +8,7 @@
     "static/js/2.d258d74f.chunk.js": "/ui-test/static/js/2.d258d74f.chunk.js",
     "static/js/2.d258d74f.chunk.js.map": "/ui-test/static/js/2.d258d74f.chunk.js.map",
     "index.html": "/ui-test/index.html",
-    "static/css/main.28c2ef72.chunk.css.map": "/ui-test/static/css/main.28c2ef72.chunk.css.map",
+    "static/css/main.ad2bd971.chunk.css.map": "/ui-test/static/css/main.ad2bd971.chunk.css.map",
     "static/js/2.d258d74f.chunk.js.LICENSE.txt": "/ui-test/static/js/2.d258d74f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ui-test/static/media/CiscoSansTTThinOblique.ac1e4bf3.ttf",
     "static/media/app.182a4482.png": "/ui-test/static/media/app.182a4482.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c86c58de.js",
     "static/js/2.d258d74f.chunk.js",
-    "static/css/main.28c2ef72.chunk.css",
+    "static/css/main.ad2bd971.chunk.css",
     "static/js/main.3222c3b5.chunk.js"
   ]
 }
