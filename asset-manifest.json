@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ui-test/static/css/main.b8214365.chunk.css",
-    "main.js": "/ui-test/static/js/main.8bb953f7.chunk.js",
-    "main.js.map": "/ui-test/static/js/main.8bb953f7.chunk.js.map",
+    "main.css": "/ui-test/static/css/main.af030f3f.chunk.css",
+    "main.js": "/ui-test/static/js/main.c1c78c41.chunk.js",
+    "main.js.map": "/ui-test/static/js/main.c1c78c41.chunk.js.map",
     "runtime-main.js": "/ui-test/static/js/runtime-main.c86c58de.js",
     "runtime-main.js.map": "/ui-test/static/js/runtime-main.c86c58de.js.map",
     "static/js/2.bbbb9997.chunk.js": "/ui-test/static/js/2.bbbb9997.chunk.js",
     "static/js/2.bbbb9997.chunk.js.map": "/ui-test/static/js/2.bbbb9997.chunk.js.map",
     "index.html": "/ui-test/index.html",
-    "static/css/main.b8214365.chunk.css.map": "/ui-test/static/css/main.b8214365.chunk.css.map",
+    "static/css/main.af030f3f.chunk.css.map": "/ui-test/static/css/main.af030f3f.chunk.css.map",
     "static/js/2.bbbb9997.chunk.js.LICENSE.txt": "/ui-test/static/js/2.bbbb9997.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ui-test/static/media/CiscoSansTTThinOblique.ac1e4bf3.ttf",
     "static/media/app.182a4482.png": "/ui-test/static/media/app.182a4482.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c86c58de.js",
     "static/js/2.bbbb9997.chunk.js",
-    "static/css/main.b8214365.chunk.css",
-    "static/js/main.8bb953f7.chunk.js"
+    "static/css/main.af030f3f.chunk.css",
+    "static/js/main.c1c78c41.chunk.js"
   ]
 }
