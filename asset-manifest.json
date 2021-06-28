@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.a644d982.css",
   "main.css.map": "static/css/main.a644d982.css.map",
-  "main.js": "static/js/main.c123b7c0.js",
-  "main.js.map": "static/js/main.c123b7c0.js.map",
+  "main.js": "static/js/main.99e76c0d.js",
+  "main.js.map": "static/js/main.99e76c0d.js.map",
   "static/media/CiscoSansTT-Medium.ttf": "static/media/CiscoSansTT-Medium.0f004294.ttf",
   "static/media/CiscoSansTTBold.ttf": "static/media/CiscoSansTTBold.9ae85533.ttf",
   "static/media/CiscoSansTTBoldOblique.ttf": "static/media/CiscoSansTTBoldOblique.754d6413.ttf",
@@ -24,5 +24,6 @@
   "static/media/full.svg": "static/media/full.83ab99ca.svg",
   "static/media/greater_than.svg": "static/media/greater_than.1414425b.svg",
   "static/media/half.svg": "static/media/half.bb1785be.svg",
+  "static/media/icLG-close.svg": "static/media/icLG-close.870ee9e6.svg",
   "static/media/icMD.svg": "static/media/icMD.87225de7.svg"
 }
