@@ -1,0 +1,37 @@
+<svg width="531" height="300" viewBox="0 0 531 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect x="83.1855" y="21.5" width="366.693" height="256.454" rx="7.5" stroke="#C3C4C5"/>
+<rect x="97.0469" y="35.5" width="339" height="227" fill="#F4F5F7" stroke="#C3C4C5"/>
+<rect x="34.5" y="278.493" width="463.547" height="9.00659" rx="3.5" stroke="#C3C4C5"/>
+<path d="M186.856 277.993L194.315 281.945C196.19 282.938 198.28 283.458 200.401 283.458H330.98C332.858 283.458 334.714 283.051 336.419 282.265L345.691 277.993" stroke="#C3C4C5"/>
+<rect x="137.047" y="63.5" width="112" height="143" rx="7.5" fill="white" stroke="#E6E7E8"/>
+<rect x="234.047" y="99.5" width="177" height="143" rx="7.5" fill="white" stroke="#E6E7E8"/>
+<rect x="248.047" y="119.5" width="69" height="106" rx="7.5" stroke="#E6E7E8"/>
+<rect x="330.047" y="119.5" width="69" height="106" rx="7.5" stroke="#E6E7E8"/>
+<circle cx="157.547" cy="85" r="5.5" stroke="#E6E7E8"/>
+<circle cx="157.547" cy="105" r="5.5" stroke="#E6E7E8"/>
+<circle cx="157.547" cy="125" r="5.5" stroke="#E6E7E8"/>
+<circle cx="157.547" cy="145" r="5.5" stroke="#E6E7E8"/>
+<circle cx="157.547" cy="165" r="5.5" stroke="#E6E7E8"/>
+<circle cx="157.547" cy="185" r="5.5" stroke="#E6E7E8"/>
+<rect x="172.547" y="84" width="57" height="1" fill="#E6E7E8"/>
+<rect x="172.547" y="104" width="57" height="1" fill="#E6E7E8"/>
+<rect x="172.547" y="124" width="57" height="1" fill="#E6E7E8"/>
+<rect x="172.547" y="144" width="57" height="1" fill="#E6E7E8"/>
+<rect x="172.547" y="164" width="57" height="1" fill="#E6E7E8"/>
+<rect x="172.547" y="184" width="57" height="1" fill="#E6E7E8"/>
+<circle cx="162.047" cy="94.5" r="17.5" fill="#DDF2D8"/>
+<circle cx="268.047" cy="186.5" r="17.5" fill="#CEE6FC"/>
+<circle cx="368.047" cy="145.5" r="17.5" fill="#FFE5BD"/>
+<circle cx="162.047" cy="94.5" r="3.5" fill="#6ABF4B"/>
+<circle cx="268.047" cy="186.5" r="3.5" fill="#00BCEB"/>
+<circle cx="368.047" cy="145.5" r="3.5" fill="#FBAB18"/>
+<path d="M165.547 95C170.547 95 182.147 95 188.547 95C196.547 95 203.047 97.5 203.047 108C203.047 118.5 203.047 166 203.047 172.5C203.047 179 206.047 186 216.547 186C224.947 186 252.047 186 264.547 186" stroke="black"/>
+<path d="M203.047 132.5C203.047 139 206.047 146 216.547 146C224.947 146 352.047 146 364.547 146" stroke="black"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="531" height="300" fill="white"/>
+</clipPath>
+</defs>
+</svg>
