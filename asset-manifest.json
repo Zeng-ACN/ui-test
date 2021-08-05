@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.ff224e5e.css",
-  "main.css.map": "static/css/main.ff224e5e.css.map",
-  "main.js": "static/js/main.7711268a.js",
-  "main.js.map": "static/js/main.7711268a.js.map",
+  "main.css": "static/css/main.776f6895.css",
+  "main.css.map": "static/css/main.776f6895.css.map",
+  "main.js": "static/js/main.96dca5a5.js",
+  "main.js.map": "static/js/main.96dca5a5.js.map",
   "static/media/1.png": "static/media/1.89dda81f.png",
   "static/media/2.png": "static/media/2.e7391064.png",
   "static/media/3.png": "static/media/3.c3aa4627.png",
@@ -38,6 +38,7 @@
   "static/media/document-icon.svg": "static/media/document-icon.6b44ea13.svg",
   "static/media/dropdown.svg": "static/media/dropdown.9546137a.svg",
   "static/media/empty.svg": "static/media/empty.9a544417.svg",
+  "static/media/expand_icon.svg": "static/media/expand_icon.386f8755.svg",
   "static/media/full.svg": "static/media/full.83ab99ca.svg",
   "static/media/greater_than.svg": "static/media/greater_than.3145aaae.svg",
   "static/media/half.svg": "static/media/half.bb1785be.svg",
@@ -48,7 +49,9 @@
   "static/media/licensing_star.svg": "static/media/licensing_star.dfcf195a.svg",
   "static/media/logo.svg": "static/media/logo.22dd7958.svg",
   "static/media/minus.svg": "static/media/minus.8d414cc8.svg",
+  "static/media/next.svg": "static/media/next.af648531.svg",
   "static/media/plus.svg": "static/media/plus.646d60a1.svg",
+  "static/media/prev.svg": "static/media/prev.b01d3d70.svg",
   "static/media/search.svg": "static/media/search.7f46cbe6.svg",
   "static/media/smartphone.svg": "static/media/smartphone.cfd1b895.svg"
 }
